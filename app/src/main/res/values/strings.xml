@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AplikasiPegawai</string>
+    <string name="gajih">Gajih</string>
+    <string name="tambah_pegawai">Tambah Pegawai</string>
+    <string name="list_pegawai">List Pegawai</string>
+    <string name="id_pegawai">ID Pegawai</string>
+    <string name="update_pegawai">Update Pegawai</string>
+    <string name="hapus_pegawai">Hapus Pegawai</string>
+    <string name="logo_aplikasi">Logo Aplikasi</string>
+    <string name="jabatan">Jabatan</string>
+    <string name="nama_pegawai">Nama Pegawai</string>
+</resources>
